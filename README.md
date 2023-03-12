@@ -1,9 +1,9 @@
 # foneBook
 foneBook helps you store contact information of all the people in your life
 
-* Made with React, Redux, MaterialUI and AnimateCSS and stores data to localStorage. *
+### Made with React, Redux, MaterialUI and AnimateCSS and stores data to localStorage. ###
 
-Features : 
+#### Features : #####
 
 * Add, delete, update contacts.
 * Simple, minimalistic UI.
