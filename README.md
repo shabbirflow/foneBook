@@ -1,6 +1,8 @@
 # foneBook
 foneBook helps you store contact information of all the people in your life
 
+Live site : https://fonebook-shabbir.netlify.app/
+
 #### Made with React, Redux, MaterialUI and AnimateCSS and stores data to localStorage. ####
 
 #### Features : #####
