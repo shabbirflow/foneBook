@@ -12,6 +12,6 @@ foneBook helps you store contact information of all the people in your life
 * Beautiful animations and hover effects
 * Stores data to localStorage
 * Mobile responsive
-
+* Form validation
 
 
